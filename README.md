@@ -4,8 +4,8 @@
 
 Taller individual · Machine Learning aplicado a Economía y Finanzas · Pontificia Universidad Javeriana Cali
 
-**Aplicación desplegada:** _(pega aquí el enlace de Streamlit Community Cloud)_
-**Video de sustentación:** _(pega aquí el enlace)_
+**Aplicación desplegada:** https://taller-acp-kmeans-salome.streamlit.app/
+**Video de sustentación:** 
 
 ## Pregunta
 ¿Existen grupos de empresas del S&P 500 con perfiles similares de tamaño, valoración,
