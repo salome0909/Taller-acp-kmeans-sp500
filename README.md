@@ -54,3 +54,6 @@ pip install -r requirements.txt
 python modelo.py        # validación en consola; guarda tablas en /salidas
 streamlit run app.py    # abre la app en http://localhost:8501
 ```
+
+## Nota
+Este proyecto se desarrolló con apoyo de herramientas de inteligencia artificial, como lo permite el taller. Las decisiones metodológicas y la interpretación de resultados se revisaron y se sustentan en el video.
